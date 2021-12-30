@@ -2,7 +2,7 @@ name: "My GitHub Status"
 icon: "calendar"
 description: "Generate my github status using GitHub Actions"
 inputs:
-  GH_USERNAME:
+  GH_USERNAME: Ktm2590
     description: "Your GitHub username"
     default: ${{ github.repository_owner }}
     required: false
