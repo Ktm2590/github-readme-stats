@@ -27,7 +27,7 @@ on:
       - main
 
 env:
-  GITHUB_NAME: trhacknonimous
+  GITHUB_NAME: Ktm2590
   GITHUB_EMAIL: zouzou0208@gmail.com
   STARED_NUMBER: 10
 
@@ -38,7 +38,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
+        uses: Ktm2590/github-readme-stats@main
         with:
           # if you also want to send TELE
           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
@@ -65,7 +65,7 @@ jobs:
 # [My example](https://github.com/yihong0618/2021).
 
 ## My GitHub Status
-<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=trhacknonimous&show_icons=true&&&hide_title=true" />
+<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=Ktm2590&show_icons=true&&&hide_title=true" />
 
 <!--START_SECTION:my_github-->
 ## The repos I created
@@ -152,3 +152,4 @@ jobs:
 
 
 <!--END_SECTION:my_github-->
+. 
