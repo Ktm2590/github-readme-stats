@@ -27,7 +27,7 @@ on:
       - main
 
 env:
-  GITHUB_NAME: yihong0618
+  GITHUB_NAME: trhacknonimous
   GITHUB_EMAIL: zouzou0208@gmail.com
   STARED_NUMBER: 10
 
@@ -65,7 +65,7 @@ jobs:
 # [My example](https://github.com/yihong0618/2021).
 
 ## My GitHub Status
-<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true" />
+<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=trhacknonimous&show_icons=true&&&hide_title=true" />
 
 <!--START_SECTION:my_github-->
 ## The repos I created
